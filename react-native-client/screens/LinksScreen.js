@@ -88,7 +88,7 @@ export default class CameraExample extends React.Component {
   }
   takePicture() {
     // const options = {};
-    console.log('what it do?');
+    console.log('what it do!!!!!?');
     // this.camera
     //   .capture({ metadata: options })
     //   .then(data => {
@@ -100,10 +100,3 @@ export default class CameraExample extends React.Component {
   }
 }
 
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     paddingTop: 15,
-//     backgroundColor: '#fff',
-//   },
-// });
